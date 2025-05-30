@@ -1,0 +1,5 @@
+set SECRET_KEY=kkioej9owjf9-23tjpio24mgkomg
+set GITHUB_CLIENT_ID=Ov23li6OByWD0hBiAcP8
+set GITHUB_CLIENT_SECRET=e10cd51e3ceb588dfa9210b43ae7b7ccfc540d5d
+mongodb+srv://user0:U52JDSl6Kl8Hpapb@cluster0.fkvc6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+set MONGO_DBNAME=baseddatBAESE

@@ -5,3 +5,29 @@
 	height:60px;
 	width:60px;
 }
+body{
+	background-color:#62909e;
+	
+}
+.bigger{
+	font-size:60px;
+}
+.bText{
+	font-size:30px;
+}
+.angle{
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+}
+.square{
+	color:#fcf2b1;
+}
+.jerry{
+	color:#ffea5e;
+}
+.carousel {
+   
+   height:360px;
+ }
+
