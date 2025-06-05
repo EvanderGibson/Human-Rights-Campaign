@@ -30,4 +30,19 @@ body{
    
    height:360px;
  }
+.time{
+	height:150px;
+	width:250px;
+ }
+ .hidden{
+	display:none;
+ }
+ .white{
+	background-color:#FFFFFF;
+ }
+.medium{
+	font-size:18px;
+	margin-left:350px;
+	margin-right:350px;
+}
 
