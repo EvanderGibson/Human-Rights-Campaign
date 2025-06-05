@@ -5,6 +5,7 @@
 	height:60px;
 	width:60px;
 }
+<<<<<<< HEAD
 body{
 	background-color:#62909e;
 	
@@ -46,3 +47,32 @@ body{
 	margin-right:350px;
 }
 
+=======
+.Bimg{
+	height:500px;
+	width:636px;
+}
+.bimg{
+	height:350px;
+	width:400px;
+}
+.Btext{
+	font-size:20px;
+
+	margin-left:0px;
+	padding:70px;
+}
+.btext{
+	font-size:20px;
+	margin:210px; 
+	margin-top:0px;
+	padding:30px;
+}
+body{
+	background-color:black;
+}
+.textbground{
+	background-color:white;
+}
+	
+>>>>>>> 5ebd16adad5a44ceab9d5b1f9ae70c3905cf234c
