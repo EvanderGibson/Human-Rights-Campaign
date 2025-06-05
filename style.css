@@ -5,7 +5,7 @@
 	height:60px;
 	width:60px;
 }
-<<<<<<< HEAD
+
 body{
 	background-color:#62909e;
 	
@@ -22,10 +22,10 @@ body{
 	border-width:2px;
 }
 .square{
-	color:#fcf2b1;
+	
 }
 .jerry{
-	color:#ffea5e;
+	
 }
 .carousel {
    
@@ -47,7 +47,7 @@ body{
 	margin-right:350px;
 }
 
-=======
+
 .Bimg{
 	height:500px;
 	width:636px;
@@ -57,7 +57,7 @@ body{
 	width:400px;
 }
 .Btext{
-	font-size:20px;
+	font-size:16.64px;
 
 	margin-left:0px;
 	padding:70px;
@@ -68,11 +68,9 @@ body{
 	margin-top:0px;
 	padding:30px;
 }
-body{
-	background-color:black;
-}
+
 .textbground{
 	background-color:white;
 }
 	
->>>>>>> 5ebd16adad5a44ceab9d5b1f9ae70c3905cf234c
+
